@@ -1,0 +1,35 @@
+
+.btn-blue {
+	background-color: #3a93b2;
+	padding: 15px;
+	border-radius: 4px;
+	color: rgb(255,255,255);
+	font-family: "Fjalla One", sans-serif;
+	font-weight: lighter;
+	font-style: normal;
+	size:20px;
+	line-height: 25px;
+	text-decoration: none;
+	text-align: center;
+
+}
+
+.btn-white {
+	background-color: rgb(255,255,255);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: rgb(0,0,0);
+	font-family: "Figtree", serif;
+	font-weight: 400;
+	font-style: normal;
+	size:18px;
+	line-height: 30px;
+	text-decoration: none;
+}
+.btn-white:hover {
+	box-shadow:0 10px 30px rgba(0,0,0,0.4);
+}
+
+.btn-blue:hover {
+	box-shadow:0 10px 30px rgba(0,0,0,0.4);
+}
